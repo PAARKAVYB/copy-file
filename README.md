@@ -27,7 +27,7 @@ Call the function.
 '''
 Python program for copying the contents from one file to another file.
 Developed by: B.Paarkavy
-RegisterNumber: 21500424
+RegisterNumber:21500424
 '''
 
 ```
@@ -43,10 +43,12 @@ copy(fname,newfile)
 
 ### OUTPUT:
 New Text File "File3.txt":
-![output](copy2.pjeg)
+![copy2](https://user-images.githubusercontent.com/93509383/153723177-207c3685-afd0-4ec4-a116-af5c5d8c51c2.jpeg)
+
 
 Output of the code(to receive input):
-![output](copy1.pjeg)
+![copy1](https://user-images.githubusercontent.com/93509383/153723179-f216209f-4f48-4b94-b874-53149fe7e282.jpeg)
+
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
